@@ -166,7 +166,7 @@
 166	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2	_	_	_	words@aba1986m#@aba1986m#144.213#144.388
 167	как-то	как-то	ADV	_	Degree=Pos	_	_	_	words@aba1986m#@aba1986m#144.388#144.627
 168	очень	очень	ADV	_	Degree=Pos	_	_	_	words@aba1986m#@aba1986m#144.627#144.939
-169	прям	пре	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	_	_	_	words@aba1986m#@aba1986m#144.939#145.152
+169	прям	прям	PART	_	_	_	_	_	words@aba1986m#@aba1986m#144.939#145.152
 170	так	так	ADV	_	Degree=Pos	_	_	_	words@aba1986m#@aba1986m#145.152#145.455
 171	/	/	PUNCT	_	_	_	_	_	words@aba1986m#@aba1986m#145.455#146.318
 172	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@aba1986m#@aba1986m#146.318#146.386
@@ -653,7 +653,7 @@
 653	вот	вот	PART	_	_	_	_	_	words@vrsh1992f#@vrsh1992f#173.625#173.787
 654	соперничество	соперничество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@vrsh1992f#@vrsh1992f#173.787#174.472
 655	женское	женский	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	words@vrsh1992f#@vrsh1992f#174.472#175.157
-656	тем	тема	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	_	_	words@vrsh1992f#@vrsh1992f#175.157#175.403
+656	тем	тем	PART	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	_	_	words@vrsh1992f#@vrsh1992f#175.157#175.403
 657	более	более	ADV	_	Degree=Cmp	_	_	_	words@vrsh1992f#@vrsh1992f#175.403#175.653
 658	актерское	актерский	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	words@vrsh1992f#@vrsh1992f#175.653#176.314
 659	потому	потому	ADV	_	Degree=Pos	_	_	_	words@vrsh1992f#@vrsh1992f#176.314#176.569
