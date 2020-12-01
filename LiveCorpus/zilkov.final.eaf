@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-11-30T14:52:22+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-12-01T21:35:26+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///G:/ВШЭ/Линг дата/Elan/Зилков АЕ.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../Зилков АЕ.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:e74ce92c-465a-4520-9aa8-06f428f912e6</PROPERTY>
@@ -1472,7 +1472,7 @@
         <TIME_SLOT TIME_SLOT_ID="ts1464" TIME_VALUE="2736470"/>
         <TIME_SLOT TIME_SLOT_ID="ts1465" TIME_VALUE="2736481"/>
     </TIME_ORDER>
-    <TIER ANNOTATOR="aRahna" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@ps1985m" TIER_ID="text@ps1985m">
+    <TIER ANNOTATOR="aRahna" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@ps1985m" TIER_ID="text@ps1985m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts26">
                 <ANNOTATION_VALUE>ты в интервью не в интервью а вс... в стриме с Великановым сказал что / хорошим человеком быть выгодно //</ANNOTATION_VALUE>
@@ -1599,7 +1599,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="aRahna" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@zae1986m" TIER_ID="text@zae1986m">
+    <TIER ANNOTATOR="aRahna" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@zae1986m" TIER_ID="text@zae1986m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts30">
                 <ANNOTATION_VALUE>ага //</ANNOTATION_VALUE>
@@ -1751,7 +1751,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="aRahna" LINGUISTIC_TYPE_REF="words" PARENT_REF="text@ps1985m" PARTICIPANT="@ps1985m" TIER_ID="words@ps1985m">
+    <TIER ANNOTATOR="aRahna" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="words" PARENT_REF="text@ps1985m" PARTICIPANT="@ps1985m" TIER_ID="words@ps1985m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3834" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
                 <ANNOTATION_VALUE>ты</ANNOTATION_VALUE>
@@ -3048,7 +3048,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="aRahna" LINGUISTIC_TYPE_REF="words" PARENT_REF="text@zae1986m" PARTICIPANT="@zae1986m" TIER_ID="words@zae1986m">
+    <TIER ANNOTATOR="aRahna" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="words" PARENT_REF="text@zae1986m" PARTICIPANT="@zae1986m" TIER_ID="words@zae1986m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4094" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
                 <ANNOTATION_VALUE>ага</ANNOTATION_VALUE>
@@ -8005,7 +8005,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="aRahna" LINGUISTIC_TYPE_REF="gestures" PARTICIPANT="@ps1985m" TIER_ID="gestures@ps1985m">
+    <TIER ANNOTATOR="aRahna" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="gestures" PARTICIPANT="@ps1985m" TIER_ID="gestures@ps1985m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8841" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
                 <ANNOTATION_VALUE>указывает пальцем на собеседника</ANNOTATION_VALUE>
@@ -8192,7 +8192,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="aRahna" LINGUISTIC_TYPE_REF="gestures" PARTICIPANT="@zae1986m" TIER_ID="gestures@zae1986m">
+    <TIER ANNOTATOR="aRahna" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="gestures" PARTICIPANT="@zae1986m" TIER_ID="gestures@zae1986m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8878" TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts58">
                 <ANNOTATION_VALUE>зажмурился</ANNOTATION_VALUE>
@@ -8409,7 +8409,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="aRahna" LINGUISTIC_TYPE_REF="gesture_meaning" PARENT_REF="gestures@ps1985m" PARTICIPANT="@ps1985m" TIER_ID="gestMeaning@ps1985m">
+    <TIER ANNOTATOR="aRahna" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="gesture_meaning" PARENT_REF="gestures@ps1985m" PARTICIPANT="@ps1985m" TIER_ID="gestMeaning@ps1985m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8921" ANNOTATION_REF="a8841">
                 <ANNOTATION_VALUE>Дейктический жест - указательный</ANNOTATION_VALUE>
@@ -8593,7 +8593,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="aRahna" LINGUISTIC_TYPE_REF="gesture_meaning" PARENT_REF="gestures@zae1986m" PARTICIPANT="@zae1986m" TIER_ID="gestMeaning@zae1986m">
+    <TIER ANNOTATOR="aRahna" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="gesture_meaning" PARENT_REF="gestures@zae1986m" PARTICIPANT="@zae1986m" TIER_ID="gestMeaning@zae1986m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8957" ANNOTATION_REF="a8878">
                 <ANNOTATION_VALUE>Жест внутреннего состояния - стыд</ANNOTATION_VALUE>
@@ -8805,7 +8805,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="aRahna" LINGUISTIC_TYPE_REF="Intonation" PARENT_REF="text@zae1986m" PARTICIPANT="@zae1986m" TIER_ID="intonation@zae1986m">
+    <TIER ANNOTATOR="aRahna" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="Intonation" PARENT_REF="text@zae1986m" PARTICIPANT="@zae1986m" TIER_ID="intonation@zae1986m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8999" ANNOTATION_REF="a3">
                 <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
@@ -8957,7 +8957,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="aRahna" LINGUISTIC_TYPE_REF="Intonation" PARENT_REF="text@ps1985m" PARTICIPANT="@ps1985m" TIER_ID="intonation@ps1985m">
+    <TIER ANNOTATOR="aRahna" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="Intonation" PARENT_REF="text@ps1985m" PARTICIPANT="@ps1985m" TIER_ID="intonation@ps1985m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9029" ANNOTATION_REF="a1">
                 <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
@@ -15308,7 +15308,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="grammar features" PARENT_REF="words@ps1985m" PARTICIPANT="@ps1985m" TIER_ID="gram@ps1985m">
+    <TIER ANNOTATOR="aRahna" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="grammar features" PARENT_REF="words@ps1985m" PARTICIPANT="@ps1985m" TIER_ID="gram@ps1985m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a11548" ANNOTATION_REF="a3834">
                 <ANNOTATION_VALUE>Case=Nom|Number=Sing|Person=2</ANNOTATION_VALUE>
@@ -16605,7 +16605,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="grammar features" PARENT_REF="words@zae1986m" PARTICIPANT="@zae1986" TIER_ID="gram@zae1986">
+    <TIER ANNOTATOR="aRahna" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="grammar features" PARENT_REF="words@zae1986m" PARTICIPANT="@zae1986m" TIER_ID="gram@zae1986m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a11807" ANNOTATION_REF="a4094">
                 <ANNOTATION_VALUE></ANNOTATION_VALUE>
@@ -21573,6 +21573,7 @@
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Intonation" TIME_ALIGNABLE="false"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="grammar features" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
     <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
     <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001" LANG_ID="und" LANG_LABEL="undetermined (und)"/>
     <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
